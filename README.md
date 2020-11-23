@@ -10,6 +10,8 @@ https://www.kaggle.com/rohanrao/nifty50-stock-market-data
 
 ### Publication in IOP ( SCOPUS ) Conference Series
 
+### - Abstract
+
 Financial markets are inherently unpredictable. They continue to change based on the performance of the company, past records, market value and are also dependent on news & timings. By
 carrying out trend analysis, one has the ability to prejudge stock prices. Machine Learning Techniques that are available, have the potential to forecast future stock prices. Each stock represents a different trend, so a
 singular machine learning model can’t be applicable to other stocks. Thus, one model giving a high degree
