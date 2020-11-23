@@ -1,6 +1,13 @@
 # Stock-Market-Prediction-LSTM
 An Empirical Research and Comprehensive Analysis of Stock Market Prediction Using Machine Learning and Deep Learning Techniques 
 
+## Dataset Used
+
+### NIFTY-50 Stock Market Data (2000 - 2020)
+Stock price data of the fifty stocks in NIFTY-50 index from NSE India
+
+https://www.kaggle.com/rohanrao/nifty50-stock-market-data
+
 ### Publication in IOP ( SCOPUS ) Conference Series
 
 Financial markets are inherently unpredictable. They continue to change based on the performance of the company, past records, market value and are also dependent on news & timings. By
